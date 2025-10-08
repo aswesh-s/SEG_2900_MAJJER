@@ -1,0 +1,25 @@
+Overall look and feel : This website will present a futuristic product, but needs to make it appear simple to understand and navigate. We will convey trustworthiness, so that people downloading our app wont be scared of potential malware. Finding the balance between portraying legitimacy, high-tech, and simplicity will be the goal of the website. 
+
+
+Colours: We will be going with black and with darker colors to show our sophistication. Also these colors give great contrasts to our text, logos and everything else we put.
+
+
+Layout / Spacing:    We will maintain generous spacing, to show just how simple and brainless the use of our product is. Also text will not be in paragraph form. every sentence or so will be in an entirely different location. This gives the illusion of being unsaddled and futuristic.
+
+
+Typography: We will be using a Sao Torpes font. This more niche choice will help us stand out among competitors.
+
+
+Interactivity: Buttons in the table of contents will help you navigate through the home site, keeping it all on the same page for simplicity, but using links to demonstrate how tech-forward we are.
+
+
+Accessibility: To keep it keyboard accessible, we will make the website able to navigate using the tab button.
+
+
+Code Standards: maximize files and functions created so that we the developers can easily understand our own code
+
+
+Buttons /Forms / Lists: Buttons will be of varied types to remain interactive.
+
+
+Icons: Our logo, and our icons, will maintain simple designs with angular linear forms.
